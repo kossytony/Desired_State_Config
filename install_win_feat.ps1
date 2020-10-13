@@ -1,4 +1,4 @@
-Configuration MyDscConfiguration {
+Configuration install_win_feat {
   
   param (
       [Parameter()]
@@ -14,5 +14,5 @@ Configuration MyDscConfiguration {
     }
   }
   
-  
+
   
