@@ -14,3 +14,5 @@ Configuration MyDscConfiguration {
     }
   }
   
+  testicles 1
+  
